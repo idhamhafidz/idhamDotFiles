@@ -1,0 +1,1 @@
+/home/idhamhafidz/.vimrc
